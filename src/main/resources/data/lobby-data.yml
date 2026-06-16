@@ -1,0 +1,23 @@
+location: ""
+items:
+  kit:
+    item:
+      name: "&6Selecciona un kit"
+      lore: []
+      material: "BOOK"
+      data: 0
+    slot: 0
+  team:
+    item:
+      name: "&6Selecciona un equipo"
+      lore: [ ]
+      material: "NETHER_STAR"
+      data: 0
+    slot: 1
+  vote:
+    item:
+      name: "&6Votar por un mapa"
+      lore: []
+      material: "EMPTY_MAP"
+      data: 0
+    slot: 2

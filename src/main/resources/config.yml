@@ -1,0 +1,19 @@
+mongo:
+  uri: "mongodb://localhost"
+  database: "DenCore"
+
+game-system:
+  starting-time: 60
+  required-players: 4
+  tools:
+    GRASS:
+      - "SWORD"
+      - "SPADE"
+      - "SHEARS"
+
+chat-system:
+  lobby: "&6[Lobby] &f%player%&7: %message%"
+  team: "&6[Equipo] &f%player%&7: %message%"
+  global: "%team-tag% &f%player%&7: %message%"
+  spy: "&6[SpyChat] %team-tag% &f%player%&7: %message%"
+

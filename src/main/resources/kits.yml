@@ -1,0 +1,344 @@
+civil:
+  enabled: true
+  icon:
+    name: "&6Civil"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase: {}
+    material: "WORKBENCH"
+    data: 0
+  price: 0
+stunner:
+  enabled: true
+  icon:
+    name: "&6Stunner"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "BRICK"
+    data: 0
+  ability:
+    item:
+      name: "&6Stunner Ability"
+      lore:
+        - "&fAturde a tus enemigos cercanos"
+        - "&eClic para usar la habilidad"
+      material: "BRICK"
+      data: 0
+    cooldown: "10s"
+  price: 100
+granadero:
+  enabled: true
+  icon:
+    name: "&6Granadero"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "MAGMA_CREAM"
+    data: 0
+  ability:
+    item:
+      name: "&6Granadero Ability"
+      lore:
+        - "&fLanza bombas a tus enemigos"
+      material: "MAGMA_CREAM"
+      data: 0
+    cooldown: "10s"
+  price: 100
+escorpion:
+  enabled: true
+  icon:
+    name: "&6Escorpion"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "NETHER_STAR"
+    data: 0
+  ability:
+    item:
+      name: "&6Escorpion Ability"
+      lore:
+        - "&fEnderpearls"
+      material: "NETHER_STAR"
+      data: 0
+    cooldown: "10s"
+  price: 100
+flash:
+  enabled: true
+  icon:
+    name: "&6Flash"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "SUGAR"
+    data: 0
+  ability:
+    item:
+      name: "&6Flash Ability"
+      lore:
+        - "&fCorre a gran velocidad"
+      material: "SUGAR"
+      data: 0
+    cooldown: "10s"
+  price: 100
+bard:
+  enabled: true
+  icon:
+    name: "&6Bard"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "BEACON"
+    data: 0
+  ability:
+    item:
+      name: "&6Bard Ability"
+      lore:
+        - "&fColoca un beacon"
+      material: "BEACON"
+      data: 0
+    cooldown: "10s"
+  price: 100
+explorador:
+  enabled: true
+  icon:
+    name: "&6Explorador"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "FISHING_ROD"
+    data: 0
+  ability:
+    item:
+      name: "&6Explorador Ability"
+      lore:
+        - "&fDescripción"
+      material: "FISHING_ROD"
+      data: 0
+    cooldown: "10s"
+  price: 100
+albanil:
+  enabled: true
+  icon:
+    name: "&6Albañil"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "WOOD"
+    data: 0
+  ability:
+    item:
+      name: "&6Albañil Ability"
+      lore:
+        - "&fDescripción"
+      material: "WOOD"
+      data: 0
+    cooldown: "10s"
+  price: 100
+minero:
+  enabled: true
+  icon:
+    name: "&6Minero"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "STONE_PICKAXE"
+    data: 0
+  price: 100
+ninja:
+  enabled: true
+  icon:
+    name: "&6Ninja"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "STONE"
+    data: 0
+  ability:
+    item:
+      name: "&6Ninja Ability"
+      lore:
+        - "&fDescripción"
+      material: "STONE"
+      data: 0
+    cooldown: "10s"
+  price: 100
+reparador:
+  enabled: true
+  icon:
+    name: "&6Reparador"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "STONE"
+    data: 0
+  price: 100
+berserker:
+  enabled: true
+  icon:
+    name: "&6Berserker"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "DIAMOND_SWORD"
+    data: 0
+  price: 100
+guerrero:
+  enabled: true
+  icon:
+    name: "&6Guerrero"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "STONE_SWORD"
+    data: 0
+  price: 100
+  settings:
+    damage: 0.05
+defensor:
+  enabled: true
+  icon:
+    name: "&6Defensor"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "IRON_CHESTPLATE"
+    data: 0
+  ability:
+    item:
+      name: "&6Defensor Ability"
+      lore:
+        - "&fDescripción"
+      material: "IRON_BLOCK"
+      data: 0
+    cooldown: "10s"
+  price: 100
+  settings:
+    radius: 50
+topo:
+  enabled: true
+  icon:
+    name: "&6Topo"
+    lore:
+      purchase:
+        - "&8Descripción"
+        - ""
+        - "&eClic para equipar este kit"
+      no-purchase:
+        - "&8Descripción"
+        - ""
+        - "&ePrecio&7: &f%price%"
+        - ""
+        - "&eClic para comprar el kit"
+    material: "STONE_PICKAXE"
+    data: 0
+  ability:
+    cooldown: "10s"
+  price: 100

@@ -1,0 +1,7 @@
+name: DenCore
+version: '${project.version}'
+main: dev.risas.dencore.DenCore
+api-version: '1.13'
+author: Risas
+depend: [DenEconomy, PlaceholderAPI]
+description: Core principal para Destruye el Nexo

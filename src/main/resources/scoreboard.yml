@@ -1,0 +1,20 @@
+title-animation:
+  interval: 200 # 0.2 seconds
+  lines:
+    - "&6&lFLORUS NETWORK"
+    - "&e&lFLORUS NETWORK"
+
+footer-animation:
+  interval: 3000 # 3 seconds
+  lines:
+    - "&7florus.cc"
+    - "&atienda.florus.cc"
+    - "&9discord.florus.cc"
+
+scoreboard:
+  waiting:
+    - "&fJuego: &4Esperando..."
+    - "&fConectados: &6%online%"
+    - ""
+    - "&fMapas:"
+    - "%maps%"
